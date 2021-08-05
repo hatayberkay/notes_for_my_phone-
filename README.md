@@ -1,5 +1,5 @@
 Notes for my phone is for taking notes on casual times.
-İ want to show you how to use Room Persistence in your project.
+İ want to show you how to use ROOM PERSİSTENCE in your project.
 Room Persistence library makes it much easier to build a cache.
 There are 2 pages to make showing your notes and write your notes.
 This project has just 3 behaviors. 
